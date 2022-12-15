@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabulousfoxx
 - 👀 I’m interested in design, programming and architecture.
-- 🌱 I’m currently learning maths and physics
+- 🌱 I’m currently learning maths!
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: currently it's not possible :DD
 
